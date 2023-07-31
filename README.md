@@ -1,4 +1,7 @@
-# 🎶 TikTok Engagement Rate Analysis & Prediction 📊
+<div style="text-align:center;">
+  <h1>🎶 TikEngage 🎶</h1>
+  <h1>TikTok Engagement Rate Analysis & Prediction</h1>
+</div>
 
 <div style="text-align:center;">
   <img src="Images/TikTok_Logo.png" alt="TikTok Logo" style="width: 100px; height: 100px; border-radius: 50%;">
