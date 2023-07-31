@@ -1,11 +1,11 @@
 # 🎶 TikTok Engagement Rate Analysis & Prediction 📊
 
 <div style="text-align:center;">
-  <img src="Images/TikTok_Logo.png" alt="TikTok Logo" style="width: 150px; height: 150px; border-radius: 50%;">
+  <img src="Images/TikTok_Logo.png" alt="TikTok Logo" style="width: 100px; height: 100px; border-radius: 50%;">
 </div>
 
 
-Welcome to my TikTok Engagement Rate Analysis & Prediction repository! 
+#### Welcome to my TikTok Engagement Rate Analysis & Prediction repository! 
 Here, you'll find all the resources related to my Capstone project, where I delve into the fascinating world of TikTok videos and user interaction. 💡
 
 ---
@@ -82,8 +82,8 @@ The notebooks folder holds the heart of my project. It is organized sequentially
 - Utilization of machine learning algorithms for predicting user engagement rates. 🚀🎯
 - Uncover valuable insights and delve into the root cause behind data distribution and patterns. 🔍🌿
 
-
+---
 
 Let's connect and engage on TikTok data! Feel free to reach out if you have any questions or just want to geek out about data science and machine learning. Happy exploring! 🚀
 
-🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉 🎶🎶🎶
