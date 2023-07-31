@@ -81,7 +81,7 @@ The notebooks folder holds the heart of my project. It is organized sequentially
 ## Project Highlights
 
 - Thorough data preprocessing steps that handle inappropriate data in multiple situations. 🧹✨
-- In-depth data analysis and visualization to understand features related to TikTok user engagement rates. 🔍📈
+- In-depth data analysis and visualization to understand features related to user engagement rates. 🔍📈
 - Utilization of machine learning algorithms for predicting user engagement rates. 🚀🎯
 - Uncover valuable insights and delve into the root cause behind data distribution and patterns. 🔍🌿
 
