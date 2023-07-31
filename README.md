@@ -1,6 +1,6 @@
 # 🚀 TikTok Engagement Rate Analysis & Prediction 📊
 
-![TikTok Logo](Images/TikTok_Logo.jpg)
+![TikTok Logo](Images/TikTok_Logo.png)
 
 Welcome to my TikTok Engagement Rate Analysis & Prediction repository! 
 Here, you'll find all the resources related to my Capstone project, where I delve into the fascinating world of TikTok videos and user interaction. 💡
